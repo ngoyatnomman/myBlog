@@ -1,0 +1,29 @@
+*{
+    margin:0;padding:0
+}
+ul{list-style-type: none}
+a{
+    color:#000000;
+    text-decoration: none;
+}
+#header{
+    height:60px;
+    background-color: #C87800;
+    text-align: center;
+    padding-top:20px;
+}
+#info{
+    background-color: #ccc;
+    padding:1px 0 1px 0;
+}
+#info ul li{
+    background-color: white;
+    padding: 10px 0 10px 10px;
+    margin:2px 0 2px 0;
+}
+.subTitle{
+    margin:5px 0 15px 0;
+}
+.subInfo{
+    margin:10px 0 5px 0;
+}
